@@ -1,1 +1,7 @@
-[]
+{
+  "users": [
+    {"username": "admin", "password": "x"},
+    {"username": "premium", "password": "gemini2024"},
+    {"username": "user1", "password": "coba123"}
+  ]
+}
