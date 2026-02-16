@@ -1,7 +1,7 @@
 {
   "users": [
-    {"username": "admin", "password": "x"},
-    {"username": "premium", "password": "gemini2024"},
-    {"username": "user1", "password": "coba123"}
+    {"username": "admin", "password": "admin"},
+    {"username": "premium", "password": "001"},
+    {"username": "user", "password": "user0012"}
   ]
 }
